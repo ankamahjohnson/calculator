@@ -10,6 +10,8 @@ https://ankamahjohnson.github.io/calculator
 - Full arithmetic operations — addition, subtraction, multiplication, division, percentage calculator function
 - Clear button to reset calculations
 - Real-time display screen for input and results
+- Light mode — soft white Neumorphic design with green accents
+- Dark mode — deep dark Neumorphic design with orange accents
 - Neumorphic soft raised button design
 - Bold green accent color on operators and equals button
 - Green underline accent on calculator title
