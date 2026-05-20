@@ -3,7 +3,7 @@ A fully functional calculator built with HTML, CSS, and JavaScript featuring a c
 
 ## Live Demo
 View Live 🌐
-[https://ankamahjohnson.github.io/neon-analog-clock/](https://ankamahjohnson.github.io/neon-analogue-clock/)  
+https://ankamahjohnson.github.io/calculator
 
 
 ## Features
