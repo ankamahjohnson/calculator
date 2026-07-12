@@ -1,5 +1,5 @@
 # calculator
-A fully functional calculator built with HTML, CSS, and JavaScript featuring a clean Neumorphism design with a dark mode toggle. Performs real-time arithmetic operations with smooth UI aesthetic theme switching between light and dark modes.
+A fully functional neumorphic calculator built with HTML, CSS and JavaScript. Performs real-time arithmetic operations with smooth UI aesthetic theme switching between light and dark modes.
 
 ## Live Demo
 View Live 🌐
