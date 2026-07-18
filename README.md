@@ -1,5 +1,5 @@
 # calculator
-A fully functional neumorphic calculator built with HTML, CSS and JavaScript. Performs real-time arithmetic operations with smooth UI aesthetic theme switching between light and dark modes.
+A fully functional neumorphic calculator built with HTML, CSS and JavaScript. Performs real- arithmetic operations with smooth UI aesthetic theme switching between light and dark modes.
 
 ## Live Demo
 View Live 🌐
