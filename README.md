@@ -1,5 +1,5 @@
 # calculator
-A fully functional neumorphic calculator built with HTML, CSS & JavaScript. Performs real-time arithmetic operations with smooth UI aesthetic theme switching between light & dark modes.
+A fully functional neumorphic calculator built with HTML, CSS and JavaScript. Performs real-time arithmetic operations with smooth UI aesthetic theme switching between light and dark modes.
 
 ## Live Demo
 View Live 🌐
@@ -9,7 +9,7 @@ https://ankamahjohnson.github.io/calculator
 ## Features
 - Full arithmetic operations — addition, subtraction, multiplication, division, percentage calculator function
 - Clear button to reset calculations
-- Real-time display screen for input and results
+- Real-time display screen for input & results
 - One click theme toggle via the accent bar under the title
 - Light mode — soft white Neumorphic design with green accents
 - Dark mode — deep dark Neumorphic design with orange accents
